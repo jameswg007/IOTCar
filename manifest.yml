@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Martin007
-  host: martin007
+  name: james007
+  host: james007
   disk_quota: 1024M
